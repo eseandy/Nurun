@@ -1,0 +1,12 @@
+c:\users\andy\documents\visual studio 2012\Projects\Nurun\Nurun\bin\Nurun.dll
+c:\users\andy\documents\visual studio 2012\Projects\Nurun\Nurun\bin\Nurun.pdb
+c:\users\andy\documents\visual studio 2012\Projects\Nurun\Nurun\bin\AjaxControlToolkit.dll
+c:\users\andy\documents\visual studio 2012\Projects\Nurun\Nurun\obj\Debug\Nurun.csprojResolveAssemblyReference.cache
+c:\users\andy\documents\visual studio 2012\Projects\Nurun\Nurun\obj\Debug\Nurun.dll
+c:\users\andy\documents\visual studio 2012\Projects\Nurun\Nurun\obj\Debug\Nurun.pdb
+c:\users\andy\documents\visual studio 2012\Projects\Nurun\Nurun\bin\Clases.dll
+c:\users\andy\documents\visual studio 2012\Projects\Nurun\Nurun\bin\Negocio.dll
+c:\users\andy\documents\visual studio 2012\Projects\Nurun\Nurun\bin\Datos.dll
+c:\users\andy\documents\visual studio 2012\Projects\Nurun\Nurun\bin\Clases.pdb
+c:\users\andy\documents\visual studio 2012\Projects\Nurun\Nurun\bin\Negocio.pdb
+c:\users\andy\documents\visual studio 2012\Projects\Nurun\Nurun\bin\Datos.pdb

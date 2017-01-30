@@ -1,0 +1,15 @@
+Manual Instalacion.
+
+
+Requerimientos de instalacion
+- IIS 6++
+- Netframework 4.5
+- SQL
+
+
+Pasos
+
+1. Descargar archivos
+2. Ejecutarscript de BD
+3. COnfigurar cadenade conexion en web.config linea 10
+
